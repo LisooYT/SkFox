@@ -1,2 +1,4 @@
+# IN PROGRESS
 # SkFox
-A little skript addon that will add vault support and will add stuff that some people might find interesting
+**SkFox** is a Skript Addon that will help you manage Economy and Permissions (vault), and will add random stuff
+
